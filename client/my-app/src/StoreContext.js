@@ -9,7 +9,7 @@ const StoreContextProvider = (props) => {
   const [token, setToken] = useState("");
   const [loggedInUser, setLoggedInUser] = useState(null);
   const [review_list, setreview_list] = useState([]);
-  const apiUrl = "https://staystory18-62yjuxeu6-saurabhs-projects-1c5b5d6b.vercel.app/" // Update if deployed
+  const apiUrl = "https://stay-story-ooie-kl2akq1nr-saurabhs-projects-1c5b5d6b.vercel.app/" // Update if deployed
 
   const getUserData = (token) => {
     try {
