@@ -25,14 +25,14 @@ Explore here - https://stay-story-client.onrender.com/
 ---
 
 ✨ Features
-📝 Post detailed stay reviews (hostels, PGs, flats)
-📸 Upload multiple real-life photos
-🔍 Search stories by keywords or location
-🔐 Google login with OAuth 2.0
-🧰 Full CRUD (Create, Read, Update, Delete) for reviews
-🌐 Language switch: English ↔ Hindi
-📱 Responsive UI for mobile & desktop
-🤖 AI-based story genuineness check to detect misleading, promotional, or low-quality content
+-📝 Post detailed stay reviews (hostels, PGs, flats)
+-📸 Upload multiple real-life photos
+-🔍 Search stories by keywords or location
+-🔐 Google login with OAuth 2.0
+-🧰 Full CRUD (Create, Read, Update, Delete) for reviews
+-🌐 Language switch: English ↔ Hindi
+-📱 Responsive UI for mobile & desktop
+-🤖 AI-based story genuineness check to detect misleading, promotional, or low-quality content
 
 ---
 
